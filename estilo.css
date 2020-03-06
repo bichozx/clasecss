@@ -2,5 +2,13 @@
     background-color: darkgreen;
 }
 .colortitulo2{
-    background-color: darkorange;
+    background-color: deepskyblue;
+}
+.imagenfondo{
+    background-image: url(img/MEDELLIN.jpg);
+    height: 800px;
+    background-attachment: fixed;
+}
+.textorojo{
+    color: firebrick;
 }
